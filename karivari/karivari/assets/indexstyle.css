@@ -1,0 +1,14 @@
+.jumbotron{
+    height: 500px;
+    background-image: url('img/udvozlo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+}
+.jumbotron .container{
+    padding-top: 20em;
+}
+.jumbotron .container h1{
+    color: whitesmoke;
+}
